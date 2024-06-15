@@ -1,0 +1,19 @@
+.chart-bg {
+  padding: 7px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 14px;
+  width: 450px;
+  height: 200px;
+  background-color: #9baac9;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.chart-label {
+  color: #282c34;
+  font-size: larger;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: solid;
+}
